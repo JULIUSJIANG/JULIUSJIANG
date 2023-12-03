@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 * 《JavaScript 高级程序设计》
 * 《Unity Shader 入门精要》
 
-## 个人成果展示
+## 个人 Demo 展示
 * 圆角矩形生成器：https://juliusjiang.github.io/round_rect_creator/round_react_creator_h5/build/
 * Webgl 效果展示：https://juliusjiang.github.io/webgl_guide/h5_preview/build/
 * 独立开发的游戏《史莱姆太嚣张》：https://juliusjiang.github.io/slime_war/build/web-desktop/
